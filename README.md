@@ -54,4 +54,4 @@ https://www.cs.bham.ac.uk/~mdr/teaching/modules04/java2/TilesSolvability.html
 The following StackOverflow post was used for help when attempting to create a GlobalApplication class to resolve some major issues involving Context: 
 https://stackoverflow.com/questions/7144177/getting-the-application-context
 
-This app was a class project for CSC207 at UofT.
+This app was a class project for a software design course at the University of Toronto. Contributors include Shahzil Lakhani, Sultan Sidhu, Nizar Islah, Abhi Kapoor, and Fatemeh Pakfetrat.
